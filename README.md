@@ -1,0 +1,2 @@
+# DVMTask
+Django ECommerce Project
